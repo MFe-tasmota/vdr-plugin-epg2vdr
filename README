@@ -3,12 +3,16 @@
 -
 - This is a "plugin" for the Video Disk Recorder (VDR).
 -
-- Written by: C++/SQL         - Jörg Wendel (vdr at jwendel dot de)
+- Written by: C++/SQL         - JÃ¶rg Wendel (vdr at jwendel dot de)
 -             SQL/Procedures  - Christian Kaiser
 -             Documetation    - Ingo Prochaska
 -
-- Homepage:          http://projects.vdr-developer.org/projects/plg-epg2vdr
-- Latest version at: http://projects.vdr-developer.org/git/vdr-plugin-epg2vdr.git
+- Homepage:  https://github.com/horchi/vdr-plugin-epg2vdr  
+- Latest version at: https://github.com/horchi/vdr-plugin-epg2vdr.git
+
+- old Homepage (deprecated, deactived, 07.2022): http://projects.vdr-developer.org/projects/plg-epg2vdr
+- Mirror of old Homepage (deprecated 07.2022):  https://vdr-projects.e-tobi.net/projects/vdr-epg-daemon 
+-
 -
 - This software is released under the GPL, version 2 (see COPYING).
 - Additionally, compiling, linking, and/or using the OpenSSL toolkit in
